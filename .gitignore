@@ -1,0 +1,11 @@
+# Showcase only: allow images, video, markdown. Block everything else.
+*
+!*/
+!.gitignore
+!*.md
+!*.png
+!*.jpg
+!*.jpeg
+!*.gif
+!*.webp
+!*.mp4
